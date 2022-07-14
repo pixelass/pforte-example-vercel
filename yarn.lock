@@ -1745,10 +1745,10 @@
   resolved "https://registry.yarnpkg.com/@pforte/constants/-/constants-0.2.0.tgz#c5402c8017bb1ccbac87d04c99d2045e6b690ccf"
   integrity sha512-YzPCBDNif7sv4iwRlt4qNbdt7IK7+DQh+yxa7/y2vWkjMqgpgBUwaOqRhfz6rITVBFiZtNva6nLXcCYkxQXY0A==
 
-"@pforte/core@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@pforte/core/-/core-0.2.0.tgz#5c916ae89750550356a80702aa078f691c9455ba"
-  integrity sha512-+PXEER200HJJAkh8yaLixe8O1ZWtrUG8bDfCKx/VOYhlAOR0MOo1OMt1F3NfiZtRGSZrlA0LrXqn972LivV7gA==
+"@pforte/core@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@pforte/core/-/core-0.2.1.tgz#691e120a92e9a1a9e487c5a5e8f86855ab68c770"
+  integrity sha512-JBzCw9D65pa5H6o1aD83zbgCVjs1WWwMY/Ia0nvLjjlhLbppsuB42ZK0Cx/BuX//McV04Kaq/DlDEn17JDgNgA==
   dependencies:
     "@pforte/constants" "^0.2.0"
     "@pforte/utils" "^0.2.0"
@@ -1771,10 +1771,10 @@
     js-cookie "3.0.1"
     type-fest "^2.16.0"
 
-"@pforte/react@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@pforte/react/-/react-0.2.0.tgz#4ec085a7f8383e35059d8a843cc4c2f4a4de96a9"
-  integrity sha512-cBm+dzasndYu++3YZ70iXjXYnBeW5AUV3dAEBNywX1UgThlxls69NaTaf0aXoogLxoY8bsd6+G1HOvYeHdzd9g==
+"@pforte/react@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@pforte/react/-/react-0.2.1.tgz#81eba7efc4140c6e446ef21fc29ea229ea81f93b"
+  integrity sha512-C1B4auiLeFA909p4TTRYfHDX7YwzkgyLDx6b5Rt9DeDunuFxQWHDprFnxjN+FKE1oOPUONVPd563D/bUAmgEOw==
   dependencies:
     "@pforte/client" "^0.2.0"
     "@types/js-cookie" "^3.0.2"
